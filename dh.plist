@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://10.100.81.29:8080/mdf_server/crm.ipa</string>
+<string>https://github.com/wuqh/crmapp/blob/master/crm.ipa?raw=true</string>
 </dict>
 </array>
 <key>metadata</key>
